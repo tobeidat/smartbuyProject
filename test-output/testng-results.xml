@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T06:50:58 EET" name="Default suite" finished-at="2024-03-23T06:51:21 EET" duration-ms="23498">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T06:50:58 EET" name="Default test" finished-at="2024-03-23T06:51:21 EET" duration-ms="23498">
+      <class name="smartbuyProject.testCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:smartbuyProject.testCases@6b5894c8]" started-at="2024-03-23T06:50:58 EET" name="setup" finished-at="2024-03-23T06:51:03 EET" duration-ms="5461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup()[pri:1, instance:smartbuyProject.testCases@6b5894c8]" started-at="2024-03-23T06:51:03 EET" name="signup" finished-at="2024-03-23T06:51:10 EET" duration-ms="6723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="login()[pri:2, instance:smartbuyProject.testCases@6b5894c8]" started-at="2024-03-23T06:51:10 EET" name="login" finished-at="2024-03-23T06:51:21 EET" duration-ms="11249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="postTest()[pri:0, instance:smartbuyProject.testCases@6b5894c8]" started-at="2024-03-23T06:51:21 EET" name="postTest" finished-at="2024-03-23T06:51:21 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- smartbuyProject.testCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
